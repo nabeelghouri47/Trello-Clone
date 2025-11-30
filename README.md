@@ -25,8 +25,8 @@ AxiosHTTP client for API requests.
 
 Backend
 (Server)TechnologyDescriptionNode.js /
-Express.jsBackend runtime and RESTful API framework.MongoDB /
-MongooseNoSQL Database and Object Data Modeling (ODM).
+Express.jsBackend runtime and RESTful API framework. Postgresql /
+Postgresql and sequalize ORM.
 JWTJSON Web Tokens for secure authentication.
 
 ⚙️ Setup Instructions
